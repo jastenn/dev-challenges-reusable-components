@@ -17,3 +17,34 @@ body {
   color: var.$clr-neutral;
   background-color: #fff;
 }
+
+.page-heading {
+  font-size: 1.5rem;
+  margin-bottom: 1em;
+}
+
+.component-col {
+  display: flex;
+  flex-direction: row;
+
+  & + & {
+    margin-top: 1.875rem;
+  }
+}
+
+.component-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 18rem;
+
+  & + & {
+    margin-left: .5rem;
+  }
+}
+
+.component-label {
+  font-family: 'Ubuntu Mono';
+  font-size: .75rem;
+  margin-bottom: .5em;
+}

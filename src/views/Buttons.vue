@@ -70,39 +70,7 @@ const componentPreviewsArr: any = [
     { label: '<BaseButton color="secondary />', props: { color: 'secondary' } },
     { label: '<BaseButton color="danger" />', props: { color: 'danger' } },
   ],
+
 ];
 
 </script>
-
-<style lang="scss">
-.page-heading {
-  font-size: 1.5rem;
-  margin-bottom: 1em;
-}
-
-.component-col {
-  display: flex;
-  flex-direction: row;
-
-  & + & {
-    margin-top: 1.875rem;
-  }
-}
-
-.component-row {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 18rem;
-
-  & + & {
-    margin-left: .5rem;
-  }
-}
-
-.component-label {
-  font-family: 'Ubuntu Mono';
-  font-size: .75rem;
-  margin-bottom: .5em;
-}
-</style>

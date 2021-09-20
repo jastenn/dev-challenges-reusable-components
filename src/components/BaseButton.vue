@@ -13,7 +13,7 @@
   >
     <span
       v-if="startIcon || endIcon"
-      class="material-icons material-icons-outlined"
+      class="material-icons material-icons"
     >
       {{ startIcon || endIcon }}
     </span>
@@ -22,8 +22,8 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const props = withDefaults(defineProps<{
   variant?: 'outline' | 'text',
   disableShadow?: boolean;
