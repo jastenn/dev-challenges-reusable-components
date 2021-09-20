@@ -40,8 +40,8 @@
 
 ## Overview
 
-![screenshot](https://ibb.co/xzY72t0)
-![screenshot](https://ibb.co/gW68mdm)
+![screenshot](https://i.ibb.co/1RMm0t5/Screenshot-2021-09-20-at-13-07-52-component-library.png)
+![screenshot](https://i.ibb.co/3Fkb4v4/Screenshot-2021-09-20-at-13-08-20-component-library.png)
 
 
 ### Built With
