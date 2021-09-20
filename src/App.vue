@@ -17,7 +17,7 @@ import TheSidebar from '@/components/TheSidebar.vue';
   display: flex;
 
   .col-2 {
-    margin-top: 2.25rem;
+    margin: 2.25rem 0;
     margin-left: 2rem;
   }
 }
