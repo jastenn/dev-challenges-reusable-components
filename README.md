@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Reusable Component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,15 +12,15 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/jastenn/dev-challenges-reusable-components">
+    <a href="https://devchallenges.io/solutions/TqUTGmcXzDHfFW8bWiWk">
       Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
-      Challenge - Reusable Button Component
+      Challenge - Button Component
     </a>
     <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
-      Challenge - Reusable Input Component
+      Challenge - Input Component
     </a>
   </h3>
 </div>
